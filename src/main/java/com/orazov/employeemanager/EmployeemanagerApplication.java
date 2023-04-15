@@ -12,7 +12,7 @@ import java.util.Arrays;
 @SpringBootApplication
 public class EmployeemanagerApplication {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { // second com
 		SpringApplication.run(EmployeemanagerApplication.class, args);
 	}
 
